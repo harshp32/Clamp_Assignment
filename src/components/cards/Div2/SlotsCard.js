@@ -19,14 +19,14 @@ export default function SlotsCard() {
                 color: "rgb(56 12 187)",
 
               },
-              ".css-5ryogn-MuiButtonBase-root-MuiSwitch-switchBase.Mui-checked+.MuiSwitch-track": {
+              ".MuiSwitch-track": {
                 backgroundColor: "black",
                 height: "5px",
                 marginTop: "auto",
                 marginBottom: "auto",
                 opacity: 1,
               },
-              ".css-1yjjitx-MuiSwitch-track": {
+              ".Mui-checked+.MuiSwitch-track": {
                 backgroundColor: "black",
                 height: "5px",
                 marginTop: "auto",
