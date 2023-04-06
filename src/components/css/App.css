@@ -20,7 +20,7 @@ body{
     display: grid;
     grid-template-columns: 1.1fr 1.65fr 2.25fr;
     column-gap: 25px;
-    padding-top: 20px;
+    padding-top: 10px;
 }
 
 body button {
