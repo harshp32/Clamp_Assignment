@@ -1,0 +1,31 @@
+.GCouterStyle{    
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(56 12 187);
+    border-radius: 35px;
+    height: 24%;
+    margin-bottom: 18px;
+    padding-bottom: 4px;
+}
+.heading{
+    font-weight: bold;
+    margin: 25px 0px 10px 35px;
+}
+.content{
+    font-size: 11px;
+    margin: 5px 25px 10px 35px;
+}
+.buttonDiv{
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 10px 20px 18px 0px;
+}
+.btn{
+    border: none;
+    color: white;
+    background-color: black;
+    border-radius: 25px 0px 25px 25px;
+    padding:10px;
+    font-size: 12px;
+    font-weight: bold;
+}

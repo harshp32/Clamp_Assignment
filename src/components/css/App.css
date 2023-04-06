@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background: black;
+    color: white;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.app{
+    margin-left: auto;
+    margin-right: auto;
+    width:60%;
+    display: grid;
+    grid-template-columns: 1.1fr 1.65fr 2.25fr;
+    column-gap: 25px;
+    padding-top: 20px;
+}
+
+body button {
+    border: none;
+    cursor: pointer;
+}

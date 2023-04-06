@@ -1,0 +1,66 @@
+.TrCouterStyle{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(42, 42, 42);
+    border-radius: 30px;
+    height: 210px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+.tHeading{
+    font-weight: bold;
+    padding: 25px 0px 10px 0px;
+}
+.tContent1{
+    font-size: 11px;
+    padding-bottom: 10px;
+}
+.tContent2{
+    font-size: 8px;
+    padding-bottom: 10px;
+}
+.avatar{
+    display: flex;
+}
+.avatar img{
+    height: 20px;
+    border:1px solid rgb(247, 170, 170);
+    background-color: white;
+    border-radius: 30px;
+    overflow: hidden;
+}
+.buttons{
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.tourBtn{
+    padding-right: 5px;
+    border: none
+}
+.tour{
+    color: white;
+    background-color: rgb(56 12 187);
+    font-size: 9px;
+    border-radius: 10px;
+    padding: 5px 17px 5px 12px;
+    outline: none;
+}
+.trip{
+    color:white;
+    background-color: black;
+    font-size: 9px;
+    border-radius: 10px;
+    padding: 5px 15px 5px 12px;
+}
+.trans{
+    color:white;
+    background-color: black;
+    font-size: 9px;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+}
+
+.poIcon{
+    margin-left: -10px;
+}

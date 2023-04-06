@@ -1,0 +1,48 @@
+.RCouterStyle{    
+    display: flex;
+    align-items: center;
+    background-color: rgb(42, 42, 42);
+    border-radius: 35px;
+    height: 15%;
+    margin-bottom: 20px;
+}
+
+.revenueContainer {
+    flex: 1;
+}
+
+.RCiconContainer {
+    aspect-ratio: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.RCiconContainer img {
+    height: 40px;
+    background: white;
+    border-radius: 50%;
+}
+
+.amount {
+    font-weight:bold;
+}
+
+.amountTitle {
+    font-size: 12px;
+    padding-bottom: 2px;
+}
+
+.progressBar {
+    width: calc(100% - 50px);
+    height: 6px;
+    background: white;
+    margin-top: 15px;
+}
+
+.progressBar div {
+    background: rgb(56 12 187);
+    width: 70%;
+    height: 100%;
+}

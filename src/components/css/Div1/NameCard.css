@@ -1,0 +1,47 @@
+.NCouterStyle{
+    background-color: rgb(42, 42, 42);
+    border-radius: 30px;
+    height: 30%;
+    margin-bottom: 20px;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    margin:0px 0px 20px 35px;
+    justify-content: left;
+}
+.nameTitle{
+    color: rgb(255 96 96);
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.positionName{
+    font-size: 15px;
+}
+.details{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+}
+.projects{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.detailsNumbers{
+    font-weight: bold;
+    padding-left: 15px;
+    padding-bottom: 8px;
+}
+.detailsText{
+    font-size: 15px;
+    padding-left: 10px
+}
+.revenue{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

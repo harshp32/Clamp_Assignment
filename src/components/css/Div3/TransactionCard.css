@@ -1,0 +1,95 @@
+.TCouterStyle{
+    padding-top:10px ;
+    background-color: rgb(42, 42, 42);
+    border-radius: 40px;
+    height: 50%;
+    margin-bottom: 20px;
+}
+.tcHeader{
+    display: flex;
+    justify-content: space-between;
+}
+.tcTitle{
+    margin:25px 0px 10px 25px;
+}
+.tcDetail{
+    font-size: 17px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.tcContent{
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+.tcIcon{
+    margin: 25px 35px 10px 0px;    
+}
+.tcIcon img{
+    background-color: white;
+    height: 45px;
+    border-radius: 30px;
+}
+.balance{
+    display: flex;
+    justify-content: space-between;
+}
+.balanceDetail{
+    margin:5px 0px 10px 25px;
+}
+.balanceNumber{
+    font-size: 17px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.balanceText{
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+.accountNumber{
+    font-size: 12px;
+    margin: 18px 35px 10px 0px;
+}
+.photos{
+    display: flex;
+    padding: 5px 0px 10px 25px;
+    align-items: center;
+}
+.arrow{
+    background-color: black;
+    margin-right: 5px;
+    border-radius: 50%;
+    height:35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.arrow img{
+    height: 10px;
+    padding: 10px;
+}
+.pics{
+    padding:8px
+}
+.pics img{
+    background-color: white;
+    height: 35px;
+    border-radius: 20px;
+}
+.tcFooter{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.tcButton{
+    padding-right: 25px;
+    padding-top: 30px;
+    border: none
+}
+.tcSend{
+    color: white;
+    background-color: rgb(255 87 87);
+    font-size: 11px;
+    font-weight: bold;
+    border-radius: 14px;
+    padding: 7px 20px 7px 20px;
+    outline: none;
+}

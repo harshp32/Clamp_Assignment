@@ -1,0 +1,25 @@
+.PPouterStyle{  
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(42, 42, 42);
+    border-radius: 30px;
+    height: 100%;
+    margin-bottom: 20px;
+}
+.ppHeader{
+    display: flex;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+.ppdotIcon img{
+    height: 15px;
+}
+.ppHeading{
+    font-size: 12px;
+    font-weight: bold;
+    padding: 2px 35px 5px 25px;
+}
+.ppContent{
+    font-size: 10px;
+    margin: auto;
+}

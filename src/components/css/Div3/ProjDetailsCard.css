@@ -1,0 +1,54 @@
+.PDouterStyle{  
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(42, 42, 42);
+    border-radius: 30px;
+    height: 100%;
+    margin-bottom: 22px;
+}
+.pHeader{
+    margin-top: 25px;
+    display: flex;
+}
+.dotIcon img{
+    height: 15px;
+}
+.pHeading{
+    font-size: 14px;
+    padding: 2px 30px 5px 25px;
+}
+.pclientName{
+    color: rgb(255 96 96);
+    font-weight: bold;
+    padding: 5px 0px 5px 25px;
+}
+.pPosition{
+    font-size: 12px;
+    padding: 5px 0px 15px 25px;
+}
+.ppProgress{
+    font-size: 10px;
+    font-weight: bold;
+    padding: 5px 0px 15px 25px;
+}
+.pBarPercentage{
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 25px 5px 0px;
+}
+.pBar{
+    margin-left: 25px;
+    width: calc(100% - 50px);
+    height: 6px;
+    background: white;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.barprogress{
+    border-radius: 4px;
+    background: rgb(56 12 187);
+    width: 75%;
+    height: 100%;
+}

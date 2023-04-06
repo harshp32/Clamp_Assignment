@@ -1,0 +1,15 @@
+.dateouterStyle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding: 8px;
+}
+.dateNumber{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 7px;
+}
+.dateText{
+    font-size: 10px;
+}

@@ -1,0 +1,6 @@
+.div3-project{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 25px;
+    height: 30%;
+}
